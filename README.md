@@ -1,16 +1,35 @@
-## Hi there 👋
+# Prazer, Pedro Ferraz👋
 
-<!--
-**pedro-ferraz-sec/pedro-ferraz-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔴 **Aspirante a Red Teamer** | Focado em Segurança Ofensiva
 
-Here are some ideas to get you started:
+Estudante de segurança da informação com foco em pentest, exploração de
+vulnerabilidades e simulação de ataques. Atualmente construindo base técnica
+através de laboratórios práticos (HTB/TryHackMe) e estudo de metodologias
+como MITRE ATT&CK.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Foco atual
+
+- Reconhecimento e enumeração de redes
+- Exploração de vulnerabilidades web (OWASP Top 10)
+- Escalonamento de privilégios (Linux/Windows)
+- Estudando para certificação [Comptia Security+]
+
+## 🛠️ Ferramentas e tecnologias
+
+`Nmap` `Burp Suite` `Metasploit` `Python` `Bash` `Linux` `Active Directory`
+
+## 📌 Destaques
+
+- 📝 [`writeups`](link) — Resoluções documentadas de máquinas e desafios
+- 🧰 [`nome-da-ferramenta`](link) — [uma linha descrevendo o que a ferramenta faz]
+- 📚 [`notes-redteam`](link) — Anotações de estudo e TTPs
+
+## 📈 Progresso
+
+- TryHackMe: [seu ranking/link do perfil]
+- Hack The Box: [seu ranking/link do perfil]
+
+## 📫 Contato
+
+- LinkedIn: [link]
+- Email: [se quiser deixar público]
