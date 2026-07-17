@@ -26,10 +26,8 @@ como MITRE ATT&CK.
 
 ## 📈 Progresso
 
-- TryHackMe: [seu ranking/link do perfil]
-- Hack The Box: [seu ranking/link do perfil]
+- TryHackMe: [https://tryhackme.com/p/pedroferrazsec]
 
 ## 📫 Contato
 
-- LinkedIn: [link]
-- Email: [se quiser deixar público]
+- LinkedIn: [https://www.linkedin.com/in/pedroferrazinfosec/]
