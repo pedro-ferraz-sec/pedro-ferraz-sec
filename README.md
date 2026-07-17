@@ -26,8 +26,8 @@ como MITRE ATT&CK.
 
 ## 📈 Progresso
 
-- TryHackMe: [https://tryhackme.com/p/pedroferrazsec]
+- TryHackMe: [Perfil no TryHackMe](https://tryhackme.com/p/pedroferrazsec)
 
 ## 📫 Contato
 
-- LinkedIn: [https://www.linkedin.com/in/pedroferrazinfosec/]
+- LinkedIn: [Pedro Ferraz](https://www.linkedin.com/in/pedroferrazinfosec/)
