@@ -20,9 +20,9 @@ como MITRE ATT&CK.
 
 ## 📌 Destaques
 
-- 📝 [`writeups`](link) — Resoluções documentadas de máquinas e desafios
-- 🧰 [`nome-da-ferramenta`](link) — [uma linha descrevendo o que a ferramenta faz]
-- 📚 [`notes-redteam`](link) — Anotações de estudo e TTPs
+- 🌐 [`Redes`](https://github.com/pedro-ferraz-sec/notes-redteam/tree/main/01-redes) — Fundamentos de redes para segurança ofensiva
+- 🔴 [`Red Team (MITRE ATT&CK)`](https://github.com/pedro-ferraz-sec/notes-redteam/tree/main/02-redteam-mitre-attack) — Metodologia completa de ataque
+- 🎯 [`Máquinas Atacadas`](https://github.com/pedro-ferraz-sec/notes-redteam/tree/main/03-maquinas-atacadas-explicadas) — Writeups de máquinas resolvidas
 
 ## 📈 Progresso
 
