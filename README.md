@@ -33,8 +33,8 @@ Defensivo (SOC): Wazuh SIEM Sysmon MITRE ATT&CK Análise de Logs Redes: TCP/IP C
 
 ## 📌 **Portfólio**
 
-- 🌐 [`Redes`](https://github.com/pedro-ferraz-sec/notes-redteam/tree/main/01-redes) — Arquitetura, protocolos e infraestrutura aplicados à segurança ofensiva
-- 🔴 [`Red Team (MITRE ATT&CK)`](https://github.com/pedro-ferraz-sec/notes-redteam/tree/main/02-redteam-mitre-attack) — Técnicas, táticas e simulação de ataques
+- 🌐 [`Redes`](https://github.com/pedro-ferraz-sec/notes-redteam/blob/main/redes/README.md) — Arquitetura, protocolos e infraestrutura aplicados à segurança ofensiva
+- 🔴 [`Red Team (MITRE ATT&CK)`](https://github.com/pedro-ferraz-sec/notes-redteam/blob/main/redteam-mitre-attack/README.md) — Técnicas, táticas e simulação de ataques
 - 🎯 [`Máquinas Atacadas`](https://github.com/pedro-ferraz-sec/notes-redteam/tree/main/03-maquinas-atacadas-explicadas) — Write-ups técnicos de laboratórios e ambientes vulneráveis
 
 
