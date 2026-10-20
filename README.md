@@ -50,7 +50,6 @@ Isso significa aprofundar exatamente o que já pratico no laboratório:
 
 - 🛡️[`CompTIA Security+`](https://github.com/pedro-ferraz-sec/CompTIA_Security_Plus) — Estudo teórico e prático voltado à certificação CompTIA Security+.
 - 🌐 [`Redes`](https://github.com/pedro-ferraz-sec/notes-redteam/blob/main/redes/README.md) — Arquitetura, protocolos e infraestrutura aplicados à segurança ofensiva.
-- 🔴 [`Red Team (MITRE ATT&CK)`](https://github.com/pedro-ferraz-sec/notes-redteam/blob/main/redteam-mitre-attack/README.md) — Técnicas, táticas e simulação de ataques.
 - 🎯 [`Máquinas Atacadas`](https://github.com/pedro-ferraz-sec/notes-redteam/tree/main/03-maquinas-atacadas-explicadas) — Write-ups técnicos de laboratórios e ambientes vulneráveis.
 
 
