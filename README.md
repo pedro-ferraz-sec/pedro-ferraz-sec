@@ -49,7 +49,7 @@ Isso significa aprofundar exatamente o que já pratico no laboratório:
 ## 📌 **Portfólio**
 
 - 🛡️[`CompTIA Security+`](https://github.com/pedro-ferraz-sec/CompTIA_Security_Plus) — Estudo teórico e prático voltado à certificação CompTIA Security+.
-- 🌐 [`Redes`](https://github.com/pedro-ferraz-sec/notes-redteam/blob/main/redes/README.md) — Arquitetura, protocolos e infraestrutura aplicados à segurança ofensiva.
+- 🧪 [`SOC Home Lab`](https://github.com/pedro-ferraz-sec/notes-redteam/blob/main/soc-home-lab/README.md) — Laboratório SOC/Blue Team criado do zero para simular ataques, detectar ameaças e investigar incidentes.
 
 
 ## 📈 **Progresso**
